@@ -1,0 +1,1 @@
+This was a classwork set assignment that I did where I was specifically challenged to program a hotel management system with tkinter, this was my first time using tkinter and it is unfinished however I understand a lot of the basic aspects of this tool now
